@@ -13,6 +13,11 @@ The website has a dynamic display UFO sighting in a tabular form with the abilit
 ![web](https://user-images.githubusercontent.com/75961117/117559368-b2e39c00-b052-11eb-8541-a4b7f290a3d5.PNG)
 
 
+
+![filters](https://user-images.githubusercontent.com/75961117/117559381-cd1d7a00-b052-11eb-97cf-51c0b26d0633.PNG)
+
+
+
 ## Summary
 
 Drawback
