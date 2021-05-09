@@ -10,6 +10,8 @@ The purpose of this project is to use JavaScript, html, D3 and css style to buil
 The website has a dynamic display UFO sighting in a tabular form with the ability to filter and search by variety of criteria. One can filter by City, State, Shape or by Date.  
 
 
+![web](https://user-images.githubusercontent.com/75961117/117559368-b2e39c00-b052-11eb-8541-a4b7f290a3d5.PNG)
+
 
 ## Summary
 
